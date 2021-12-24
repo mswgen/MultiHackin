@@ -1,2 +1,2 @@
 # MultiHackin
-Ditch MultiBeast, use MultiHackin
+The ultimate Hackintosh Post-Installation utility
